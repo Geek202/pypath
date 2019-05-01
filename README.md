@@ -1,2 +1,2 @@
 # pypath
-A python pathfinding library, includes a maze solving test program
+A python pathfinding library, includes a maze solving test program.
